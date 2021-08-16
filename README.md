@@ -194,6 +194,7 @@ def playerShootoutKicks()
             
             ipsg = soccerShootout.player_shootout_goals
             
+            
             time.sleep(1)
             
             print(fnYou scored a goal at the {kicker_location} location.)
